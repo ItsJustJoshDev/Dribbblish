@@ -1,0 +1,48 @@
+/* More Icons Lmfaoooo */
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+/* Normal Fonts */
+@font-face {
+    font-family: "Google Sans Display";
+    src: url("https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/GoogleSansDisplayRegular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Google Sans Display";
+    src: url("https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/GoogleSansDisplayMedium.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/Roboto.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/RobotoMedium.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* Microsoft Icons */
+@font-face {
+  font-family: "Segoe Fluent Icons";
+  src: local("Segoe Fluent Icons"), 
+	url("https://itsjustjoshdev.github.io/Midnight/src/app/fonts/Segoe-Fluent-Icons.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe MDL2 Assets';
+  src: local('Segoe MDL2 Assets'), local('SegoeMDL2Assets'),
+    url('https://itsjustjoshdev.github.io/Midnight/src/app/fonts/SegMDL2.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
