@@ -3,8 +3,7 @@
 
 @font-face {
   font-family: 'iconsax';
-  src:  url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.eot?yjegnn');
-  src:  url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
+  src:
     url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.ttf?yjegnn') format('truetype'),
     url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.woff?yjegnn') format('woff'),
     url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.svg?yjegnn#iconsax') format('svg');
