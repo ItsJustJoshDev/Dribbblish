@@ -1,6 +1,18 @@
 /* More Icons Lmfaoooo */
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 
+@font-face {
+  font-family: 'Iconsax';
+  src:  url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.eot?yjegnn'),
+	url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
+	url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.ttf?yjegnn') format('truetype'),
+	url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.woff?yjegnn') format('woff'),
+        url('https://itsjustjoshdev.github.io/Dribbblish/src/app/fonts/iconsax.svg?yjegnn#iconsax') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 /* Normal Fonts */
 @font-face {
     font-family: "Google Sans Display";
